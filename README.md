@@ -16,7 +16,6 @@
 
 This application provides **intelligent graded simplification** for music scores, helping beginners choose simplified versions appropriate for their skill level. It prevents frustration caused by overly complex scores and gradually transitions learners to the original compositions.
 
-> **Core principle**: Simplification means *preserving note pitches while removing, merging, or extending notes* — not generating new ones.
 
 ---
 
@@ -239,7 +238,6 @@ Commercial use is strictly prohibited.
 
 本应用为乐器初学者提供**智能分级简化**功能，让学习者可以选择适合自身水平的简化乐谱，避免因乐曲难度过高而产生挫败感，最终逐步过渡到原始乐谱。
 
-> **核心理念**：简化是*保留音高、删减/合并/延长音符*，而非从零生成。
 
 ---
 
