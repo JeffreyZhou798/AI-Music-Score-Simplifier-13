@@ -399,20 +399,6 @@ CPU optimizations include:
 
 ---
 
-## Testing Checklist
-
-| Scenario         | Mode         | Level | Expected Result                                       |
-| ---------------- | ------------ | ----- | ----------------------------------------------------- |
-| Jasmine Flower   | Single-Staff | L3    | keep beat heads and remove subdivisions               |
-| Jasmine Flower   | Single-Staff | L4    | protect syncopation, dotted notes, and turning points |
-| Turkish March    | Grand-Staff  | L2    | output Soprano, Alto, and Bass texture                |
-| Turkish March    | Grand-Staff  | L4    | output SATB texture with dynamic voice controls       |
-| Anacrusis score  | Single-Staff | L4    | preserve pickup measure completely                    |
-| Ornamented score | Single-Staff | L4    | remove or merge ornaments                             |
-| Any score        | Single-Staff | any   | hide SATB voice controls                              |
-
----
-
 ## Acknowledgments
 
 - [music21](https://web.mit.edu/music21/) for symbolic music parsing
