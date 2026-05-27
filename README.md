@@ -22,7 +22,6 @@ AI Music Score Simplifier converts complex scores into graded simplified version
 The system does not generate a new composition. Its core rule is:
 
 > Keep original pitches, simplify rhythm and texture by removing, merging, muting, or extending existing notes.
----
 
 <a id="english"></a>
 
