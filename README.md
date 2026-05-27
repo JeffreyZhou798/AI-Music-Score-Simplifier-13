@@ -8,7 +8,7 @@
 
 ## Intelligent Graded Simplification for Music Education
 
-**Try it online**: [ModelScope Demo](https://www.modelscope.cn/studios/JeffreyZhou2026/AI-Music-Score-Simplifier-13) https://www.modelscope.cn/studios/JeffreyZhou2026/AI-Music-Score-Simplifier-13/summary
+**Try it online**: [ModelScope Demo](https://www.modelscope.cn/studios/JeffreyZhou2026/AI-Music-Score-Simplifier-13) https://www.modelscope.cn/studios/JeffreyZhou2026/AI-Music-Score-Simplifier-13
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-green)](https://www.python.org/)
 [![Gradio 6.2](https://img.shields.io/badge/Gradio-6.2.0-orange)](https://www.gradio.app/)
